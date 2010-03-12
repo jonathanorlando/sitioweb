@@ -10,12 +10,12 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
-DATABASE_ENGINE = 'postgresql_psycopg2'     
-DATABASE_NAME = ''           
+DATABASE_ENGINE = 'sqlite3'     
+DATABASE_NAME = 'sitioweb'           
 DATABASE_USER = ''             
 DATABASE_PASSWORD = ''         
-DATABASE_HOST = 'localhost'             
-DATABASE_PORT = '5432'            
+DATABASE_HOST = ''             
+DATABASE_PORT = ''            
 
 # Local time zone for this installation. Choices can be found here:
 # http://en.wikipedia.org/wiki/List_of_tz_zones_by_name
